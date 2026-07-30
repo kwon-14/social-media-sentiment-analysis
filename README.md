@@ -13,4 +13,4 @@ Python, SnowNLP Sentiment Analysis, Data Visualization
 Master application portfolio for Data Science (University of Macau) & Communication Studies (BNU)
 
 ## Project Preview
-![Platform Interface](assets/预览图.png)
+![Platform Interface](assets/demo_preview.png)
